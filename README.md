@@ -1,32 +1,36 @@
 <h1 align="center">Hi 👋, I'm Hamza Omar</h1>
+
 <h3 align="center">
-Business Developer & Senior PHP / Laravel Developer <br>
+Senior Backend Laravel Developer & Business Developer <br>
 Co-Founder at MixCode
 </h3>
 
 <p align="center">
-I build scalable web & mobile systems, manage development teams, and translate business needs into technical solutions.
+I design and build scalable backend systems, APIs for mobile applications,
+and powerful admin dashboards using Laravel & Filament.
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔹 Co-founder at **MixCode**, a software company specialized in web & mobile solutions
-- 🔹 Strong background in **Business Analysis & System Analysis**
-- 🔹 Experienced in designing **Database Schemas, ERD, System Flow & Diagrams**
-- 🔹 Expert in building **Admin Panels & Dashboards using Filament**
-- 🔹 Experience in **E-commerce systems, Multi-vendor platforms & SaaS solutions**
-- 🔹 Team leader with hands-on development experience
+## 👨‍💻 About Me
+- 🔹 Co-Founder at **MixCode**
+- 🔹 **Senior Backend Developer (Laravel)**
+- 🔹 Strong experience with **MVC Architecture**
+- 🔹 Building **RESTful APIs for Mobile Applications**
+- 🔹 Expert in **Filament Admin Panels & Dashboards**
+- 🔹 Solid background in **System Analysis & Business Logic**
+- 🔹 Experienced in **Database Design, ERD & System Diagrams**
+- 🔹 Team Leader & Technical Consultant
 
 ---
 
-### 🌐 Portfolio
+## 🌐 Portfolio
 - All of my projects are available at  
-  👉 **https://mix-code.com**
+👉 **https://mix-code.com**
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact
 - Email: **hamza-omar@mix-code.com**
 
 ---
@@ -45,15 +49,6 @@ I build scalable web & mobile systems, manage development teams, and translate b
 
 ## 🛠 Languages & Tools
 
-### Markup, Frontend & UI
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" width="40"/>
-</p>
-
 ### Backend, Frameworks & Databases
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
@@ -62,6 +57,15 @@ I build scalable web & mobile systems, manage development teams, and translate b
 <img src="https://filamentphp.com/images/logo.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+</p>
+
+### Frontend & UI
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" width="40"/>
 </p>
 
 ### DevOps & Tools
@@ -73,13 +77,24 @@ I build scalable web & mobile systems, manage development teams, and translate b
 
 ---
 
+## 🔧 Backend Expertise
+- ✔ Laravel Backend Development
+- ✔ MVC Architecture
+- ✔ RESTful API Development for Mobile Apps
+- ✔ Authentication & Authorization (Sanctum / JWT)
+- ✔ Multi-role & Permission Systems
+- ✔ Performance Optimization & Clean Code
+- ✔ API Integration with Mobile Applications
+
+---
+
 ## 📊 System Analysis & Architecture
-- ✔ System Analysis & Requirement Gathering  
-- ✔ Database Design & Optimization  
-- ✔ ERD (Entity Relationship Diagrams)  
-- ✔ Flowcharts & Business Process Diagrams  
-- ✔ Role & Permission Systems  
-- ✔ Scalable Architecture for Web & Mobile Apps  
+- ✔ System Analysis & Requirement Gathering
+- ✔ Database Design & Optimization
+- ✔ ERD (Entity Relationship Diagrams)
+- ✔ Flowcharts & System Diagrams
+- ✔ Business Logic Modeling
+- ✔ Scalable Application Architecture
 
 ---
 
@@ -92,18 +107,18 @@ El-Shorouk Academy
 ## 📜 Training & Certifications
 - Training at **HOLO Company** – Web Development  
 - Training at **WebMasr Company** – WordPress Development  
-- Completed **YET Professional Diploma for Web Development**
+- **YET Professional Diploma** for Web Development
 
 ---
 
 ## 💼 Work Experience
 
 ### **MixCode**
-**Co-Founder & Technical Lead**  
+**Co-Founder & Backend Technical Lead**  
 📅 2018 – Present  
-- Leading web & mobile development teams  
-- Business & system consultation  
-- Designing scalable systems and dashboards  
+- Leading backend architecture and API development  
+- Building admin dashboards using Filament  
+- System analysis & technical consultation  
 
 ### **Mazaya International Group**
 **PHP Developer & Digital Marketer**  
@@ -123,4 +138,4 @@ El-Shorouk Academy
 
 ---
 
-⭐ Always open to building impactful systems and long-term partnerships.
+⭐ Passionate about clean backend architecture and scalable systems.
