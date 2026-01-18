@@ -1,70 +1,126 @@
-<h1 align="center">Hi 👋, I'm hamza omar</h1>
-<h3 align="center">A business Developer Working at MixCode</h3>
+<h1 align="center">Hi 👋, I'm Hamza Omar</h1>
+<h3 align="center">
+Business Developer & Senior PHP / Laravel Developer <br>
+Co-Founder at MixCode
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://mix-code.com](https://mix-code.com)
+<p align="center">
+I build scalable web & mobile systems, manage development teams, and translate business needs into technical solutions.
+</p>
 
-- 📫 How to reach me **hamza-omar@mix-code.com**
+---
+
+### 👨‍💻 About Me
+- 🔹 Co-founder at **MixCode**, a software company specialized in web & mobile solutions
+- 🔹 Strong background in **Business Analysis & System Analysis**
+- 🔹 Experienced in designing **Database Schemas, ERD, System Flow & Diagrams**
+- 🔹 Expert in building **Admin Panels & Dashboards using Filament**
+- 🔹 Experience in **E-commerce systems, Multi-vendor platforms & SaaS solutions**
+- 🔹 Team leader with hands-on development experience
+
+---
+
+### 🌐 Portfolio
+- All of my projects are available at  
+  👉 **https://mix-code.com**
+
+---
+
+### 📫 Contact Me
+- Email: **hamza-omar@mix-code.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hamza-omer-799b8781" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hamza-omer-799b8781" height="30" width="40" /></a>
-<a href="https://fb.com/hamza.omar.37" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hamza.omar.37" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamza-omer-799b8781" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/>
+</a>
+<a href="https://fb.com/hamza.omar.37" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"/>
+</a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 Languages & Tools
 
-<h4 align="left">Markups, Scripts Languages & Design Frameworks:</h4>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="alpinejs" width="40" height="40"/> </a>
+### Markup, Frontend & UI
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" width="40"/>
 </p>
 
- <h4 align="left">DataBase , Programming Languages & Frameworks:</h4>
- <p align="left">
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://livewire.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg" alt="livewire" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+### Backend, Frameworks & Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg" width="40"/>
+<img src="https://filamentphp.com/images/logo.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
 </p>
 
+### DevOps & Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+</p>
 
-<h4 align="left">Additional Tools:</h4>
- <p align="left"> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
- </p>
-  
-<h3 align="center">Education</h3>
-Bachelor degree at management information system from el-shorouk academy .
+---
 
-<h3 align="center">Training and courses certificate</h3>
+## 📊 System Analysis & Architecture
+- ✔ System Analysis & Requirement Gathering  
+- ✔ Database Design & Optimization  
+- ✔ ERD (Entity Relationship Diagrams)  
+- ✔ Flowcharts & Business Process Diagrams  
+- ✔ Role & Permission Systems  
+- ✔ Scalable Architecture for Web & Mobile Apps  
 
--	Training at   **HOLO Company**    ( Web Development) .
+---
 
--	Training at  **WebMasr company**   ( WordPress Development).
+## 🎓 Education
+**Bachelor Degree in Management Information Systems (MIS)**  
+El-Shorouk Academy
 
-- Attended and completed **YET** Professional diploma for web .
+---
 
-<h3 align="center">Work Experience</h3>
+## 📜 Training & Certifications
+- Training at **HOLO Company** – Web Development  
+- Training at **WebMasr Company** – WordPress Development  
+- Completed **YET Professional Diploma for Web Development**
 
-**mixCode team** :
-- Job Title  : Co-founder and responsible for all major tasks related to Business consultations and a web development team leader 
-- From : 2018 - present        
+---
 
-**Mazaya international group** :
-- Job Title  : PHP Developer & Digital marketer   
-- From : 9 / 2018 – 6/ 2020 . 
+## 💼 Work Experience
 
-**Holol for web services** :
-- Job Title  : PHP Developer   
-- From : 10 / 2017 – 8 / 2018 . 
+### **MixCode**
+**Co-Founder & Technical Lead**  
+📅 2018 – Present  
+- Leading web & mobile development teams  
+- Business & system consultation  
+- Designing scalable systems and dashboards  
 
-**First Masr** :
-- Job Title  : PHP Developer   
-- From : 2 / 2017 – 9 / 2017 . 
+### **Mazaya International Group**
+**PHP Developer & Digital Marketer**  
+📅 09/2018 – 06/2020  
 
-**LGI** :
-- Job Title  : PHP Developer   
-- From : 2016 – 2017 . 
+### **Holol for Web Services**
+**PHP Developer**  
+📅 10/2017 – 08/2018  
 
+### **First Masr**
+**PHP Developer**  
+📅 02/2017 – 09/2017  
 
+### **LGI**
+**PHP Developer**  
+📅 2016 – 2017  
 
+---
 
-
+⭐ Always open to building impactful systems and long-term partnerships.
