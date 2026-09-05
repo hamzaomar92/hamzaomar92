@@ -78,7 +78,7 @@ I don't focus only on writing code — I focus on building systems that **solve 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg" width="45" height="45" alt="Livewire" />
-  <img src="https://filamentphp.com/images/logo.svg" width="45" height="45" alt="Filament" />
+  <img src="[https://filamentphp.com/images/logo.svg](https://mintcdn.com/filament-34a8cf01/IXEGm3ksDuq2LnU2/logo/dark.svg?fit=max&auto=format&n=IXEGm3ksDuq2LnU2&q=85&s=1cda6327b7957831f251713984a64599)" width="45" height="45" alt="Filament" />
 </p>
 
 **PHP · Laravel · Filament · Livewire · REST APIs · MVC · Eloquent ORM**
